@@ -137,6 +137,7 @@ DWORD MainThreadControl(LPVOID /* param */)
     printf("Type quit to stop sniffing ");
     printf("Note: you can simply re-attach the sniffer without ");
     printf("restarting the WoW.\n\n");
+    printf("This project is no longer supported! new project is located at https://github.com/Zedron/Whiff\n\n");
 
     // gets the build number
     buildNumber = GetBuildNumberFromProcess();

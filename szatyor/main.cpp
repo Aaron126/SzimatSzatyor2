@@ -58,6 +58,7 @@ int main(int argc, char* argv[])
     printf("SzimatSzatyor2 is distributed under the GNU GPLv3 license.\n");
     printf("Source code is available at: ");
     printf("https://github.com/Zedron/SzimatSzatyor2\n\n");
+    printf("This project is no longer supported! new project is located at https://github.com/Zedron/Whiff\n\n");
 
     if (argc > 2)
     {
